@@ -1,3 +1,3 @@
 # MyFirstRepo
 
-This is My Repo
+This is My First Repo
